@@ -1,6 +1,6 @@
 # ScaOpt_SecAllocation
-MATLAB simulation code for Scalable and Optimal Security Allocation in Networks under Stealthy Injection Attacks
-Paper: https://arxiv.org/abs/2411.15319
+- MATLAB simulation code for Scalable and Optimal Security Allocation in Networks under Stealthy Injection Attacks
+- Paper: https://arxiv.org/abs/2411.15319
 
 ### Requirements
 - MATLAB R2023 or later
