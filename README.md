@@ -8,5 +8,6 @@
 - mosek solver (https://www.bing.com/search?q=mosek&qs=n&form=QBRE&sp=-1&lq=0&pq=mosek&sc=13-5&sk=&cvid=91562ECDC09B48479E2A648C52A8ED5C)
 
 ### How to Run
+- Download ConnectedGraph.m, TAC_Opt_SecAllocation_Theorem1.m, TAC_ScaOpt_SecAllocation_Corollary2.m
 - For Theorem 1, run TAC_Opt_SecAllocation_Theorem1.m.
 - For Corollary 2, run TAC_ScaOpt_SecAllocation_Corollary2.m
